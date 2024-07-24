@@ -1,23 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Jyotsna Sehgal</h1>
-<h3 align="center">AWS certified machine leaning engineer and passionate data analytics professional</h3>
-
-- 🔭 I’m currently working on [Virtual Real Estate Agent](https://github.com/jyotsna2411/Virtual_Real_Estate_Agent)
-
-- 🌱 I’m currently learning *PySpark,R, SAAS*
-
-- 🤝 I’m looking for help with [EEG Data pre-processing](https://github.com/jyotsna2411/bci-motor-imagery-classification)
-
-- 👨‍💻 All of my projects are available at [https://jyotsnasportfolio.vercel.app/](https://jyotsnasportfolio.vercel.app/)
-
-- 💬 Ask me about *AWS, Machine Learning, Signal Processing , NLP*
-
-- 📫 How to reach me *jyotsnasehgal24@gmail.com*
-
-- 📄 Know about my experiences [https://jyotsna-sehgal.tiiny.site/](https://jyotsna-sehgal.tiiny.site/)
-
-- ⚡ Fun fact *I like to enjoy tea and coffee together*
-
+<h1 align="center">Hi 👋, I'm Jyotsna Sehgal</h1><br><h3 align="center">AWS certified machine leaning engineer and passionate data analytics professional</h3><br><br>- 🔭 I’m currently working on [Virtual Real Estate Agent](https://github.com/jyotsna2411/Virtual_Real_Estate_Agent)<br><br>- 🌱 I’m currently learning *PySpark,R, SAAS*<br><br>- 🤝 I’m looking for help with [EEG Data pre-processing](https://github.com/jyotsna2411/bci-motor-imagery-classification)<br><br>- 👨‍💻 All of my projects are available at [https://jyotsnasportfolio.vercel.app/](https://jyotsnasportfolio.vercel.app/)<br><br>- 💬 Ask me about *AWS, Machine Learning, Signal Processing , NLP*<br><br>
 
 
 ## 🌐 Socials:
@@ -30,7 +12,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jyotsna2411&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsna2411&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jyotsna2411&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jyotsna2411&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=jyotsna2411&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jyotsna2411&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
