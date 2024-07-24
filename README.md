@@ -1,3 +1,6 @@
+<div style="background:#000">
+  
+
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Jyotsna Sehgal</h1><br><h3 align="center">AWS certified machine leaning engineer and passionate data analytics professional</h3><br><br>- 🔭 I’m currently working on [Virtual Real Estate Agent](https://github.com/jyotsna2411/Virtual_Real_Estate_Agent)<br><br>- 🌱 I’m currently learning *PySpark,R, SAAS*<br><br>- 🤝 I’m looking for help with [EEG Data pre-processing](https://github.com/jyotsna2411/bci-motor-imagery-classification)<br><br>- 👨‍💻 All of my projects are available at [https://jyotsnasportfolio.vercel.app/](https://jyotsnasportfolio.vercel.app/)<br><br>- 💬 Ask me about *AWS, Machine Learning, Signal Processing , NLP*<br><br>
 
@@ -24,4 +27,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jyotsna2411&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
