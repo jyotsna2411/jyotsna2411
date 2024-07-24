@@ -13,7 +13,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsna2411&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-<div align="center">![](https://github-profile-trophy.vercel.app/?username=jyotsna2411&theme=buefy&no-frame=false&no-bg=false&margin-w=4),/div>
+![](https://github-profile-trophy.vercel.app/?username=jyotsna2411&theme=buefy&no-frame=false&no-bg=false&margin-w=4)
+
+## Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotsna2411&bg_color=ebd1f5&color=3a033a&line=9c07a6&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
